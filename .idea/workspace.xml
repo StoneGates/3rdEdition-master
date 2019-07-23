@@ -101,6 +101,10 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -129,6 +133,7 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,11 +155,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Software/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,17 +207,17 @@
       <updated>1563810467933</updated>
       <workItem from="1563810469122" duration="2770000" />
       <workItem from="1563888631702" duration="1280000" />
-      <workItem from="1563892465758" duration="673000" />
+      <workItem from="1563892465758" duration="1126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4723000" />
+    <option name="totallyTimeSpent" value="5176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -228,7 +235,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
