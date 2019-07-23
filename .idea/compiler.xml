@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch13-data-binding" />
+        <module name="ch06-value-annotation" />
+        <module name="ch07-bankapp-profiles" />
+        <module name="ch15-commons-file-upload" />
+        <module name="ch14-webservice-client-uritemplates" />
+        <module name="ch11-aop-proxy" />
+        <module name="ch04-springbankapp-autowiring" />
+        <module name="ch12-annotation-helloworld" />
+        <module name="ch04-bankapp-replaced-method" />
+        <module name="ch13-bankapp" />
+        <module name="ch14-webservice" />
+        <module name="ch04-bankapp-lookup-method" />
+        <module name="ch06-jsr349-validation" />
+        <module name="ch11-aop-xml-schema" />
+        <module name="ch15-bankapp" />
+        <module name="ch04-bankapp-context-aware" />
+        <module name="ch09-springdata-mongo" />
+        <module name="ch09-springdata-jpa" />
+        <module name="ch14-webservice-uritemplates" />
+        <module name="ch06-lazy-dependencies" />
+        <module name="ch01-bankapp-xml" />
+        <module name="ch02-bankapp-interfaces" />
+        <module name="ch05-bankapp-customization" />
+        <module name="ch15-async-webservice-client" />
+        <module name="ch06-spel-example" />
+        <module name="ch15-servlet3-file-upload" />
+        <module name="ch08-bankapp-tx-jdbc" />
+        <module name="ch07-bankapp-configuration" />
+        <module name="ch08-bankapp-hibernate" />
+        <module name="ch16-bankapp-db-security" />
+        <module name="ch04-bankapp-dependencies" />
+        <module name="ch14-webservice-client" />
+        <module name="ch13-session-attributes" />
+        <module name="ch16-bankapp-simple-security" />
+        <module name="ch03-namespaces-example" />
+        <module name="ch03-bankapp-constructor-args-by-name" />
+        <module name="ch11-aop-pointcuts" />
+        <module name="ch03-bankapp-factorybean" />
+        <module name="ch13-jsr349-validation-javaconfig" />
+        <module name="ch15-converter-formatter-bankapp" />
+        <module name="ch15-async-bankapp" />
+        <module name="ch03-bankapp-modular" />
+        <module name="ch06-custom-qualifier" />
+        <module name="ch05-bankapp-beanfactorypostprocessor" />
+        <module name="ch05-bankapp-jsr250" />
+        <module name="ch05-propertyOverrideConfigurer-example" />
+        <module name="ch03-bankapp-inheritance" />
+        <module name="ch11-simple-aop" />
+        <module name="ch07-bankapp-import-configs" />
+        <module name="ch03-util-schema-examples" />
+        <module name="ch05-bankapp-beanpostprocessor" />
+        <module name="ch15-async-webservice" />
+        <module name="ch05-property-placeholder-element-example" />
+        <module name="ch12-bankapp" />
+        <module name="ch06-validator-interface" />
+        <module name="ch06-bean-profiles" />
+        <module name="ch02-bankapp-scopes" />
+        <module name="ch05-localoverride-example" />
+        <module name="ch06-bankapp-jsr330" />
+        <module name="ch03-simple-types-examples" />
+        <module name="ch12-helloworld" />
+        <module name="ch16-javaconfig-simple-security" />
+        <module name="ch03-bankapp-constructor-args-by-type" />
+        <module name="ch09-javaconfig-jpa" />
+        <module name="ch08-bankapp-jdbc" />
+        <module name="ch08-javaconfig-hibernate" />
+        <module name="ch03-bankapp-inheritance-examples" />
+        <module name="ch11-aop-advices" />
+        <module name="ch10-bankapp-javaconfig" />
+        <module name="ch06-bankapp-annotations" />
+        <module name="ch13-jsr349-validation" />
+        <module name="ch05-propertySourcesPlaceholderConfigurer-example" />
+        <module name="ch07-bankapp-more" />
+        <module name="ch10-bankapp" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch03-bankapp-constructor-args-by-name" options="-g:none" />
+      <module name="ch03-bankapp-constructor-args-by-type" options="-g:none" />
+      <module name="ch03-bankapp-inheritance" options="-g:none" />
+      <module name="ch03-bankapp-inheritance-examples" options="-g:none" />
+      <module name="ch03-namespaces-example" options="-g:none" />
+      <module name="ch03-simple-types-examples" options="-g:none" />
+      <module name="ch03-util-schema-examples" options="-g:none" />
+      <module name="ch06-bean-profiles" options="-g:none" />
+      <module name="ch06-jsr349-validation" options="-parameters" />
+      <module name="ch06-spel-example" options="-g:none" />
+      <module name="ch06-validator-interface" options="-g:none" />
+      <module name="ch06-value-annotation" options="-g:none" />
+      <module name="ch07-bankapp-profiles" options="-g:none" />
+    </option>
+  </component>
+</project>

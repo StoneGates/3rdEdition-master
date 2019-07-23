@@ -1,2 +1,1 @@
-# 3rdEdition-master
-Spring学习指南（第3版）
+This Git repository contains source code for Getting started with Spring Framework, 3rd Edition book.

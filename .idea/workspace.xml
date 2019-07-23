@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f79cba5e-5c0d-43a9-96fb-bb902cf999de" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-bean-profiles/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-converter-formatter-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-custom-qualifier/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-property-placeholder-element-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 9/ch09-springdata-mongo/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 13/ch13-data-binding/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 9/ch09-springdata-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 16/ch16-javaconfig-simple-security/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 1/ch01-bankapp-xml/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-spel-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 11/ch11-aop-advices/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 16/ch16-bankapp-db-security/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-bankapp-beanfactorypostprocessor/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 13/ch13-jsr349-validation/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-util-schema-examples/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-value-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 12/ch12-helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-constructor-args-by-name/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 11/ch11-simple-aop/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 4/ch04-bankapp-replaced-method/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 12/ch12-annotation-helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-namespaces-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-inheritance-examples/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 7/ch07-bankapp-import-configs/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-propertySourcesPlaceholderConfigurer-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-async-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 11/ch11-aop-proxy/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 10/ch10-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-bankapp-customization/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 2/ch02-bankapp-interfaces/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 9/ch09-javaconfig-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-modular/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 14/ch14-webservice-client-uritemplates/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-factorybean/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-bankapp-annotations/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 8/ch08-bankapp-hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-localoverride-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 2/ch02-bankapp-scopes/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-simple-types-examples/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-bankapp-beanpostprocessor/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 10/ch10-bankapp-javaconfig/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-validator-interface/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-bankapp-jsr330/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-async-webservice-client/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 8/ch08-javaconfig-hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-lazy-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 7/ch07-bankapp-configuration/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-inheritance/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 7/ch07-bankapp-profiles/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 16/ch16-bankapp-simple-security/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-servlet3-file-upload/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 13/ch13-session-attributes/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 4/ch04-bankapp-autowiring/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 4/ch04-bankapp-context-aware/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-bankapp-jsr250/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 14/ch14-webservice-client/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 13/ch13-jsr349-validation-javaconfig/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-commons-file-upload/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 15/ch15-async-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 11/ch11-aop-pointcuts/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 12/ch12-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 8/ch08-bankapp-tx-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 3/ch03-bankapp-constructor-args-by-type/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 4/ch04-bankapp-lookup-method/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 8/ch08-bankapp-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 14/ch14-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 7/ch07-bankapp-more/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 13/ch13-bankapp/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 5/ch05-propertyOverrideConfigurer-example/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 11/ch11-aop-xml-schema/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 4/ch04-bankapp-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/chapter 6/ch06-jsr349-validation/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter 1/ch01-bankapp-xml/src/main/java/sample/spring/chapter01/bankapp/BankApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Software/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Software\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sample.spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rdEdition-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.spring.chapter01.bankapp.BankApp" />
+      <module name="ch01-bankapp-xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.spring.chapter01.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f79cba5e-5c0d-43a9-96fb-bb902cf999de" name="Default Changelist" comment="" />
+      <created>1563810467933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563810467933</updated>
+      <workItem from="1563810469122" duration="2770000" />
+      <workItem from="1563888631702" duration="1280000" />
+      <workItem from="1563892465758" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4723000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32983023" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 1/ch01-bankapp-xml/src/main/java/sample/spring/chapter01/bankapp/BankApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

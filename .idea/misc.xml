@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-annotation-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-data-binding" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-jsr349-validation" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-jsr349-validation-javaconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-session-attributes" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 14/ch14-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-async-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-async-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-commons-file-upload" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-converter-formatter-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-servlet3-file-upload" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-bankapp-db-security" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-bankapp-simple-security" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-javaconfig-simple-security" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
